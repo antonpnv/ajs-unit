@@ -1,0 +1,30 @@
+{
+  "name": "ajs-unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonpnv/ajs-unit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonpnv/ajs-unit/issues"
+  },
+  "homepage": "https://github.com/antonpnv/ajs-unit#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "eslint": "^8.51.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.33.0"
+  }
+}
